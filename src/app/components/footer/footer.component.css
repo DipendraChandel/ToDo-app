@@ -1,0 +1,8 @@
+.footer
+{
+
+    height: 40px;
+    background-color: black;
+    position: sticky;
+    top: 100%;
+}
